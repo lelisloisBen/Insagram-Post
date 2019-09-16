@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+.post {
+    background: white;
+    margin-top: 20px;
+}
+.p_header {
+    padding: 10px;
+}
+.header_left {
+    display: inline-block;
+    width: 5%;
+}
+.header_left2 {
+    display: inline-block;
+    width: 60%;
+}
+.header_left2 span {
+    font-weight: bold;
+}
+.header_right {
+    display: inline-block;
+    width: 35%;
+    text-align: right;
+}
+.header_right a {
+    color: black;
+}
+.header_right a:hover {
+    color: blue;
+}
+.p_body img {
+    width: 100%;
+}
+.p_footer {
+    padding: 10px;
+}
+.p_footer_icon {
+    padding: 10px;
+}
+.icon_left {
+    display: inline-block;
+    width: 50%;
+}
+.icon_right {
+    display: inline-block;
+    width: 49%;
+    text-align: right;
+}
